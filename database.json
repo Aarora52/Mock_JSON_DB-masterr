@@ -1,16 +1,40 @@
 {
-   "users": [
+  "users": [
     {
-        "id": 1,
-        "username": "Anna232",
-        "first_name": "Anna",
-        "email": "annasemail@gmail.com"
+      "id": 1,
+      "username": "Anna232",
+      "first_name": "Anna",
+      "email": "annasemail@gmail.com"
     },
     {
-        "id": 2,
-        "username": "Bob232",
-        "first_name": "Bob",
-        "email": "bobsemail@gmail.com"
+      "id": 2,
+      "username": "Bob232",
+      "first_name": "Bob",
+      "email": "bobsemail@gmail.com"
+    },
+    {
+      "id": 3,
+      "username": "aarora52",
+      "first_name": "Ansh",
+      "email": "aansh8081@gmail.com"
+    },
+    {
+      "id": 4,
+      "username": "aarora52",
+      "first_name": "Ansh",
+      "email": "aansh8081@gmail.com"
+    },
+    {
+      "id": 5,
+      "username": "babu",
+      "first_name": "babbu",
+      "email": "babu@gmaiol.com"
+    },
+    {
+      "id": 6,
+      "username": "babu",
+      "first_name": "babbu",
+      "email": "babu@gmaiol.com"
     }
-   ]
+  ]
 }
